@@ -47,7 +47,7 @@ ao longo do tempo.
 ---
 
 ## 📷 Dashboard
-![Evolução das Unidades de Saúde no Brasil](Projetosunidadesdesaude/Image/dashboard_geral.png)
+![Evolução das Unidades de Saúde no Brasil](/Image/dashboard_geral.png)
 
 ---
 
